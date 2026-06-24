@@ -1,0 +1,6 @@
+# .gitignore for AAAAAAAAAAAA
+backup_clean/
+build/
+*.py
+*.pyc
+.gemini/
