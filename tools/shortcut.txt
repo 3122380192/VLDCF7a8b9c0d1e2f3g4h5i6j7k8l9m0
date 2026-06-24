@@ -1,0 +1,14 @@
+AProty.exe|Auto Xả R2-4|A
+AProty3.exe|Auto Xả R3|A
+BKAV.exe|Auto Bú R2-4|A
+Bu_Custom.exe|Auto Bú tùy chỉnh|A
+Bliz.exe|Callboss (BLIZ)|A
+Miao.exe|Callboss (Miao)|A
+
+LCF.exe|Auto đăng nhập|F
+riot.exe|CallBoss (riot) free|F
+GP.exe|Treo_GP free|F
+LCFPASS.exe|CFPASS free|F
+
+US.exe|UserCheck|S
+HIDU.exe|Migration|S
