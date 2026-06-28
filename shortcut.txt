@@ -10,5 +10,13 @@ riot.exe|CallBoss (riot) free|F
 GP.exe|Treo_GP free|F
 LCFPASS.exe|CFPASS free|F
 
+devenv.exe|Farm Gấu R4|B
+devenv1.exe|Farm Lùm tre R2|B
+devenv2.exe|Farm Gla R4|B
+devenv3.exe|Farm Thần Chết R2 100đ|B
+devenv4.exe|Di_Tích|B
+devenv5.exe|Trade thẻ|B
+devenv6.exe|farm R3|B
+
 US.exe|UserCheck|S
 HIDU.exe|Migration|S
