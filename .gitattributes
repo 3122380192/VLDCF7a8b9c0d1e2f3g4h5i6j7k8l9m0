@@ -1,0 +1,6 @@
+# Exclude web management and license files from the downloaded ZIP archive
+index.html export-ignore
+licenses.json export-ignore
+version.json export-ignore
+.gitignore export-ignore
+.gitattributes export-ignore
